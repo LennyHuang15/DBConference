@@ -1,0 +1,357 @@
+#2018
+
+-Vicechairs
+Tiziana Catarci	Sapienza University of Rome, Italy
+Amr El Abbadi	UC Santa Barbara
+Meihui Zhang	Singapore University Of Technology And Design
+Tirthankar Lahiri	Oracle
+Eric Lo	Hongkong Chinese University
+Adam Lee	University Of Pittsburgh, Usa
+Timos Sellis	Swinburne University of Technology, Australia
+Yannis Velegrakis	University Of Trento
+Rachel Pottinger	University Of British Columbia
+Evimaria Terzi	Boston University
+H.V. Jagadish	University Of Michigan
+Jonathan Goldstein	Microsoft Research
+Mohamed Sharaf	University Of Queensland
+Ashraf Aboulnaga	QCRI
+Spyros Blanas	Ohio State University
+Angela Bonifati	University of Lille, France
+Shimin Chen	Chinese Academy Of Sciences
+Bin Cui	Peking University
+Evaggelia Pitoura	University Of Ioannina, Greece
+Gao Cong	Nanyang Technological University
+Demetris Zeinalipour-Yatzi	University of Cyprus
+Christian S. Jensen	Aalborg University
+
+-Program Committee
+Karl Aberer	École Polytechnique Fédérale de Lausanne, Switzerland
+Nipun Agarwal	Oracle Labs, USA
+Divy Agrawal	University of California, Santa Barbara, USA
+Anastasia Ailamaki	École Polytechnique Fédérale de Lausanne, Switzerland
+Periklis Andritsos	University of Toronto, Canada
+Manos Athanassoulis	Harvard SEAS, USA
+Zhifeng Bao	RMIT University, Australia
+Klaus Berberich	Max Plank Institute for Informatics, Germany
+Sonia Bergamaschi	Università di Modena e Reggio Emilia, Italy
+Laure Berti	Aix-Marseille University, France
+Elisa Bertino	Purdue University, USA
+Arnab Bhattacharya	Indian Institute of Technology Kanpur, India
+Sourav S Bhowmick	Nanyang Technological University, Singapore
+Francesco Bonchi	ISI Foundation, Turin, Italy
+Rajesh Bordawekar	IBM T. J. Watson Research Center, USA
+Yingyi Bu	Couchbase, Inc., USA
+Lei Cao	Massachusetts Institute of Technology, USA
+Zhao Cao	Beijing Institute of Technology, China
+Xin Cao	University of New South Wales, Australia
+Adriane Chapman	University of Southampton, UK
+Surajit Chaudhuri	Microsoft Research, USA
+Muhammad Aamir Cheema	Monash University, Australia
+Lisi Chen	Hong Kong Baptist University, Hong Kong
+Qun Chen	Northwestern Polytechnical University, China
+Lei Chen	Hong Kong University of Science and Technology, Hong Kong
+James Cheng	The Chinese University of Hong Kong, Hong Kong
+Byron Choi	Hong Kong Baptist University, Hong Kong
+Vassilis Christophides	University of Crete, Greece & Inria Paris, France
+Philippe Cudre-Mauroux	University of Fribourg, Switzerland
+Khuzaima Daudjee	University of Waterloo
+Antonios Deligiannakis	Technical University of Crete, Greece
+Alex Delis	University of Athens, Greece
+Alin Deutsch	University of California-San Diego, USA
+Xiaoyong Du	Renmin University of China
+Ahmed Eldawy	University of California, Riverside, USA
+Mohamed Eltabakh	Worcester Polytechnic Institute, USA
+Alvaro Fernandes	The University of Manchester, UK
+Peter Fischer	University of Freiburg, Germany
+George Fletcher	TU Eindhoven, Netherlands
+Irini Foundoulaki	ICS FORTH, Greece
+Marco Gaboardi	University at Buffalo, USA
+Esther Galbrun	INRIA, France
+Jun Gao	Peking University, China
+Jinyang Gao	National University of Singapore
+Yunjun Gao	Zhejiang University, China
+Minos Garofalakis	Technical University of Crete, Greece
+Wolfgang Gatterbauer	Carnegie Mellon University
+Dimitrios Georgakopoulos	Swinsburne University of Technology, Australia
+Michael Gertz	Heidelberg University, Germany
+Boris Glavic	Illinois Institute of Technology, USA
+Behzad Golshan	Recruit Institute of Technology, USA
+Weiwei Gong	Oracle America, USA
+Paolo Guagliardo	University of Edinburgh, UK
+Francesco Guerra	University of Modena e Reggio Emilia, Italy
+Shenoda Guirguis	Oracle America (Oracle Labs), USA
+Shenoda Guirguis	LinkedIn Inc., USA
+Krishna Gummadi	Max Plank Institute for Software Systems, Germany
+Heli Helskyaho	Miracle Technologies, Finland
+Herodotos Herodotou	Cyprus University of Technology
+Allison Holloway	Oracle Inc., USA
+Bill Howe	University of Washington, USA
+Vagelis Hristidis	University of California, Riverside, USA
+Meichun Hsu	Oracle America, USA
+Zhenjiang Hu	National Institute of Informatics (NII), Japan
+Sam Idicula	Oracle America (Oracle Labs), USA
+Ioana Ileana	Paris Descartes University, France
+Yoshiharu Ishikawa	Nagoya University, Japan
+Chris Jermaine	Rice University, USA
+Panos Kalnis	King Abdullah University of Science and Technology, Saudi Arabia
+Vana Kalogeraki	Athens University of Economics and Business, Greece
+Murat Kantarcioglu	University of Texas at Dallas, USA
+Zoi Kaoudi	Qatar Computing Research Institute, Qatar
+Asterios Katsifodimos	TU Berlin, Germany
+Tasos Kementsietsidis	Google Inc., USA
+Alfons Kemper	TU Munich, Germany
+Florian Kerschbaum	University of Waterloo, Canada
+Dan Kifer	Pennsylvania State University, USA
+Birgitta König-Ries	Friedrich-Schiller-Universität Jena, Germany
+Nick Koudas	University of Toronto, Canada
+Vasudha Krishnaswamy	Oracle Labs, USA
+Jae-Gil Lee	KAIST, South Korea
+Wang-Chien Lee	Pennsylvania State University, USA
+Viktor Leis	Technical University of Munich, Germany
+Hong Va Leong	The Hong Kong Polytechnic University, Hong Kong
+Justin Levandoski	Microsoft Research, USA
+Guoliang Li	Tsinghua University, China
+Xuemin Lin	University of New South Wales, Australia
+Ling Liu	Georgia Institute of Technology, USA
+Alex X. Liu	Michigan State University, USA
+Xuan Liu	Baidu Inc., China
+Hua Lu	Aalborg University, Denmark
+Qiong Luo	Hong Kong University of Science and Technology, Hong Kong
+Shuai Ma	Beihang University, China
+Ashwin Machanavajjhala	Duke University, USA
+Samuel Madden	Massachusetts Institute of Technology, USA
+Nikos Mamoulis	University of Ioannina, Greece
+Rui Mao	Shenzhen University, China
+Michalis Mathioudakis	Aalto University, Finland
+Marta Mattoso	COPPE- Federal University Rio de Janeiro, Brazil
+Charalampos Mavroforakis	Boston University, USA
+Paolo Merialdo	Università degli Studi Roma Tre, Italy
+Bernhard Mitschang	University of Stuttgart, Germany
+Yang-Sae Moon	Kangwon National University, South Korea
+Davide Mottin	Hasso-Plattner Institute, Germany
+Emmanuel Muller	Hasso-Plattner Institute, Germany
+Mario Nascimento	University of Alberta, Canada
+Raymong Ng	University of British Columbia
+Kjetil Nørvåg	Norwegian University of Science and Technology, Norway
+Werner Nutt	University of Bolzano, Italy
+Esther Pacitti	U Montpelier (LIRMM), France
+Olga Papaemmanouil	Brandeis University, USA
+Paolo Papotti	EURECOM, France
+Abdul Quamar	IBM Research Almaden, USA
+Jignesh Patel	University of Wisconsin–Madison
+Torben Pedersen	Aalborg University, Denmark
+Konstantinos Pelechrinis	University of Pittsburgh, USA
+Antonella Poggi	Sapienza University of Rome, Italy
+Giuseppe Polese	University of Salerno, Italy
+Danica Porobic	Oracle Inc., USA
+Jorge-Arnulfo Quiane-Ruiz	Qatar Computing Research Institute, Qatar
+Krithi Ramamritham	IIT Bombay, India
+Sayan Ranu	IIT Delhi, India
+Theodoros Rekatsinas	University of Wisconsin, USA
+Matthias Renz	George Mason University, USA
+Juan Reutter	Pontificia Universidad Católica de Chile
+Mirek Riedewald	Northeastern University, USA
+Matteo Riondatto	Two Sigma, USA
+Mohammad Sadoghi	University of California, Davis, USA
+Ken Salem	Univeristy of Waterloo, Canada
+Semih Salihoglu	University of Waterloo, Canada
+Pierangela Samarati	Universita delgi Studi di Milano, Italy
+Prasenjit Sarkar	Datos.io, USA
+Thibault Sellam	Columbia University, USA
+Marco Serafini	Qatar Computing Research Institute, Qatar
+J. Shane Culpepper	RMIT University, Australia
+Shuo Shang	King Abdullah University of Science and Technology, Saudi Arabia
+Yanyan Shen	Shanghai Jiao Tong University, China
+Hengtao Shen	University of Electronic Science and Technology of China (UESTC)
+Anna Squicciarini	The Pennsylvania State University, USA
+Kostas Stefanidis	University of Tampere, Finland
+Ryan Stutsman	University of Utah, USA
+Letizia Tanca	Politecnico di Milano, Italy
+Nan Tang	Qatar Computing Research Institute, Qatar
+Dina Thomas	Pure Storage, USA
+Yongxin Tong	Beihang University, China
+Goce Trajcevski	Northwestern University, USA
+Peter Triantafillou	University of Warwick, UK
+Panayiotis Tsaparas	University of Ioannina, Greece
+Vassilis Tsotras	University of California, Riverside, USA
+Dimitrios Tsoumakos	Ionian University, Greece
+Anthony Tung	National University of Singapore
+Antti Ukkonen	University of Helsinki, Finland
+Stijn Vansummeren	Université Libre de Bruxelles, Belgium
+Nalini Venkatasubramanian	University of California, Irvine, USA
+Stratis Viglas	University of Edinburgh, UK
+Sheng Wang	National University of Singapore
+Wei Wang	University of New South Wales, Australia
+Wei Wang	National University of Singapore
+Limsoon Wong	National University of Singapore
+Akrivi Vlachou	University of Piraeus, Greece
+Eugene Wu	Columbia University, USA
+Sai Wu	Zhejiang University, China
+Li Xiong	Emory University, USA
+Jianliang Xu	Hong Kong Baptist University, Hong Kong
+Jeffrey Xu Yu	The Chinese University of Hong Kong, Hong Kong
+Xiaochun Yang	Northeastearn University, China
+Xiaoyan Yang	University of Illinois at Urbana-Champaign, USA
+Bin Yang	Aalborg University, Denmark
+Junjie Yao	East China Normal University, China
+Hongzhi Yin	The University of Queensland, Australia
+Ting Yu	Qatar Computing Research Institute, Qatar
+Quan Yuan	University of Illinois at Urbana-Champaign, USA
+Ye Yuan	Northeastern University, China
+Vladimir Zadorozny	University of Pittsburgh, USA
+Arkady Zaslavsky	Commonwealth Scientific and Industrial Research Organisation (CSIRO), Australia
+Nan Zhang	Penn State University, USA
+Ce Zhang	ETH Zürich, Switzerland
+Dongxiang Zhang	University of Electronic Science and Technology of China
+Rui Zhang	University of Melbourne, Australia
+Kai Zheng	University of Electronic Science and Technology of China
+Xiaofang Zhou	University of Queensland, Australia
+Andreas Züfle	George Mason University, USA
+
+#2017
+
+-Program Committee Chairs
+Yannis Papakonstantinou	University of California, San Diego
+Yanlei Diao	Ecole Polytechnique, France & University of Massachusetts, Amherst
+
+-Area Chairs
+Lei Chen	Hong Kong University of Science and Technology
+Reynold Cheng	University of Hong Kong
+Wolfgang Gatterbauer	Carnegie Mellon University
+Bingsheng He	National University of Singapore
+Stratos Idreos	Harvard University
+Christopher Jermaine	Rice University
+Chen Li	University of California Irvine
+Gerome Miklau	University of Massachusetts
+Tamer Özsu	University of Waterloo
+Olga Papaemmanouil	Brandeis University
+Evimaria Terzi	Boston University
+Eugene Wu	Columbia University
+
+-Program Committee
+Ashraf Aboulnaga	Qatar Computing Research Institute
+Alex Alves	Amazon
+Gabriel Antoniu	INRIA
+Arvind Arasu	Microsoft Research
+Andrey Balmin	Workday
+Zhifeng Bao	RMIT University
+Sumita Barahmand	Microsoft Corporation
+Srikanta Bedathur	IBM Research
+Carsten Binnig	Brown University
+Spyros Blanas	The Ohio State University
+Philip Bohannon	Facebook
+Vinayak Borkar	X15 Software Inc.
+Marco Brambilla	Politecnico di Milano
+Matthias Brantner	Oracle Inc.
+Stephane Bressan	National University of Singapore
+Yingyi Bu	Couchbase Inc.
+K. Selcuk Candan	Arizona State University
+Zhao Cao	Beijing Institute of Technology
+Bogdan Cautis	ENST Paris - UMR CNRS 5141
+Konstantinos Chatzikokolakis	Ecole Polytechnique of Paris
+James Cheng	Chinese University of Hong Kong
+Fei Chiang	McMaster University
+Panos K. Chrysanthis	University of Pittsburgh
+Philippe Cudre-Mauroux	University of Fribourg
+Bin Cui	Peking University
+Alfredo Cuzzocrea	ICAR-CNR and University of Calabria
+Khuzaima Daudjee	University of Waterloo
+Antonios Deligiannakis	Technical University of Crete
+Amol Deshpande	University of Maryland at College Park
+Daniel Deutch	Tel Aviv University
+Alan Fekete	University of Sydney
+Johann Gamper	Free University of Bozen-Bolzano
+Minos Garofalakis	Yahoo! Research
+Carmem Hara	Federal University of Parana
+Thomas Heinis	Imperial College London
+Melanie Herschel	Universität Stuttgart
+Vagelis Hristidis	UC Riverside
+Xin Huang	University of British Columbia
+Seung-Won Hwang	Yonsei University
+Heasoo Hwang	University of Seoul
+Yoshiharu Ishikawa	Nagoya University
+Alekh Jindal	Microsoft
+Panos Kalnis	King Abdullah University of Science and Technology
+Verena Kantere	University of Geneva
+Panagiotis Karras	Aalborg University
+Asterios Katsifodimos	Technical University of Berlin
+Yannis Katsis	UC San Diego
+Georgios Kellaris	Harvard University and Boston University
+Bettina Kemme	McGill University
+Florian Kerschbaum	SAP
+Benny Kimelfeld	Technion - Israel Institute of Technology
+Paraschos Koutris	University of Wisconsin-Madison
+Tim Kraska	Brown University
+Arun Kumar	University of California, San Diego
+Wolfgang Lehner	TU Dresden
+Chuan Lei	NEC Labs America
+Guoliang Li	Tsinghua University
+Chengkai Li	University of Texas at Arlington
+Feifei Li	University of Utah
+Yanhua Li	Worcester Polytechnic Institute (WPI)
+Lipyeow Lim	University of Hawaii at Manoa
+Xuemin Lin	The University of New South Wales
+Jiaheng Lu	University of Helsinki
+Shuai Ma	Beihang University
+Ashwin Machanavajjhala	Duke University
+Nikos Mamoulis	University of Hong Kong
+Davide Martinenghi	Politecnico di Milano
+Michael Mathioudakis	Aalto University
+Bongki Moon	Seoul National University
+Kyriakos Mouratidis	Singapore Management University
+Rene Mueller	IBM Research
+Vivek Narasayya	Microsoft
+Thomas Neumann	Technische Universität München
+Benjamin Nguyen	Université de Versailles St-Quentin
+Nicola Onose	X15 Software
+Beng Chin Ooi	National University of Singapore
+Fatma Ozcan	IBM Almaden Research Center
+Stavros Papadopoulos	Intel Labs & MIT
+Stelios Paparizos	Google
+Srinivasan Parthasarathy	Ohio State University
+Torben Bach Pedersen	Aalborg University
+Peter Pietzuch	Imperial College London
+Danica Porobic	Oracle Labs
+Nicoleta Preda	University Paris Saclay (Versailles)
+Jorge-Arnulfo Quiané-Ruiz	Qatar Computing Research Institute
+Rajeev Rastogi	Yahoo!
+Matteo Riondato	Two Sigma Investments LP
+Marry Roth	IBM
+Florin Rusu	University of California Merced
+Sourav S Bhowmick	Nanyang Technological University
+Semih Salihoglu	University of Waterloo
+Felix Martin Schuhknecht	Saarland University
+Russell Sears	Pure Storage
+Mohamed Sharaf	University of Queensland
+Anshumali Shrivastava	Rice University
+Shaoxu Song	Tsinghua University
+Yizhou Sun	UCLA
+Kian-Lee Tan	National University of Singapore
+Egemen Tanin	University of Melbourne
+Yufei Tao	University of Queensland
+Farhan Tauheed	Oracle Labs Zurich
+Boon Thau Loo	University of Pennsylvania
+Yongxin Tong	Beihang University
+Panayiotis Tsaparas	University of Ioannina
+Dimitrios Tsoumakos	Department of Informatics, Ionian University
+Katerina Tzompanaki	University of Cergy-Pontoise
+Vasilis Vassalos	Athens University of Economics and Business
+Yannis Velegrakis	University of Trento
+Stratis Viglas	University of Edinburgh
+Hannes Voigt	TU Dresden
+Steven Whang	Google Inc.
+Yuqing Wu	Pomona College
+Xiaokui Xiao	Nanyang Technological University
+Lianghong Xu	Carnegie Mellon University
+Yin David Yang	Hamad Bin Khalifa University
+Jeffery Xu Yu	Chinese University of Hong Kong
+Mingxuan Yuan	Huawei Noah Arklab
+Carlo Zaniolo	UCLA
+Rui Zhang	University of Delaware
+Ce Zhang	ETH Zurich
+Zhenjie Zhang	University of Illinois Urbana-Champaign
+Vincent W. Zheng	University of Illinois Urbana-Champaign
+Wenchao Zhou	Georgetown University
+Aoying Zhou	East China Normal University
+Lei Zou	Peking University
+Andreas Züfle	George Mason University

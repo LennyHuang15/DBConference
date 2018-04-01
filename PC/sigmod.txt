@@ -1,0 +1,606 @@
+#2018
+
+-Program Chair
+Philip Bernstein (Microsoft Research)
+
+-Vice Chairs
+Xin Luna Dong (Amazon)
+Mohamed Mokbel (Qatar Computing Research Institute)
+
+-Group Leaders
+Daniel Abadi (Yale University)
+Arvind Arasu (Microsoft Research)
+Walid Aref (Purdue University)
+Shivnath Babu (Duke University)
+Michael Cafarella (University of Michigan)
+AnHai Doan (University of Wisconsin)
+Bill Howe (University of Washington)
+Zachary Ives (University of Pennsylvania)
+Gerome Miklau (UMass Amherst)
+Tova Milo (Tel Aviv University)
+Jeff Naughton (Google)
+Erhard Rahm (University of Leipzig)
+Ken Ross (Columbia University)
+Wang-Chiew Tan (Recruit USA)
+Jeffrey Xu Yu (Chinese University of Hong Kong)
+
+-PC Members
+Aaron Elmore (University of Chicago) 
+Ada Fu (Chinese University of Hong Kong) 
+Adam Silberstein (Google) 
+Ahmed Aly (Google)
+Alan Fekete (University of Sydney)
+Alexander Thomson (Google)
+Alexandra Meliou (University of Massachusetts Amherst)
+Alfons Kemper (TU Munich)
+Alkis Simitsis (Hewlett Packard Enterprise)
+Alon Halevy (Recruit U.S.A.)
+Alvin Cheung (University of Washington)
+Amol Deshpande (University of Maryland at College Park)
+Andreas Thor (HFT Leipzig)
+Andrey Gubichev (Google)
+Andy Pavlo (Carnegie Mellon University)
+Angela Bonifati (University of Lyon)
+Anthony Tung (National University of Singapore)
+Arash Termehchy (Oregon State University)
+Arun Kumar (University of California, San Diego)
+Ashraf Aboulnaga (Qatar Computing Research Institute)
+Ashwin Machanavajjhala (Duke University)
+Avigdor Gal (Technion)
+Azade Nazi (Microsoft Research)
+Azza Abouzied (NYU Abu Dhabi)
+Baihua Zheng (Singapore Management University)
+Barzan Mozafari (University of Michigan)
+Beng Chin Ooi (National University of Singapore)
+Bin Cui (Peking University)
+Bingsheng He (National University of Singapore)
+Bongki Moon (Seoul National University)
+Boon Loo (University of Pennsylvania)
+Brian Cooper (Google)
+Carsten Binning (Brown University)
+Ce Zhang (ETH)
+Chen Li (University of California, Irvine)
+Chengkai Li (University of Texas at Arlington)
+Christoph Koch (EPFL Switzerland)
+Daisy Zhe Wang (University of Florida)
+Dan Lin (Missouri University of Science and Technology)
+Dan Olteanu (Oxford University)
+Dan Ports (University of Washington USA)
+Danica Porobic (Oracle)
+Daniel Deutch (Tel Aviv University)
+Danyel Fisher (Microsoft)
+Dimitris Papadias (Hong Kong University of Science and Technology)
+Divesh Srivastava (AT&T Labs Research)
+Divy Agrawal (University of California, Santa Barbara)
+Eduard Dragut (Temple University)
+Elke Rundensteiner (Worcester Polytechnic Institute)
+Eric Lo (Chinese University of Hong Kong)
+Evaggelia Pitoura (University of Ioannina)
+Evimaria Terzi (Boston University)
+Fatma Ozcan (IBM Research Almaden)
+Feifei Li (University of Utah)
+Gao Cong (Nanyang Technological University)
+George Kollios (Boston University)
+Giansalvatore Mecca (Universita della Basilicata)
+Graham Cormode (University of Warwick)
+Guoliang Li (Tsinghua University)
+H. Jagadish (University of Michigan)
+Hakan Ferhatosmanoglu (Bilkent University)
+Hao Wei (Hong Kong Baptist University)
+Hideaki Kimura (Oracle)
+Holger Pirk (Massachusetts Institute of Technology)
+Ian Rae (Google)
+Immanuel Trummer (Cornell University)
+Ippokratis Pandis (Amazon Web Services)
+Jagan Sankaranarayanan (Google)
+Jaideep Vaidya (Rutgers University)
+Jayant Madhavan (Google)
+Jennie Duggan (Northwestern University)
+Jens Dittrich (Saarland University)
+Jiannan Wang (Simon Fraser University)
+Jignesh Patel (University of Wisconsin-Madison)
+Jing Gao (State University of New York at Buffalo)
+Joseph Gonzalez (University of California, Berkeley)
+Julia Stoyanovich (Drexel University)
+Julian Shun (University of California, Berkeley)
+Justin Levandoski (Microsoft Research)
+Kaushik Chakrabarti (Microsoft Research)
+Ke Yi (Hong Kong University of Science and Technology)
+Khuzaima Daudjee (University of Waterloo)
+Kian-Lee Tan (National University of Singapore)
+Kjetil Norvag (Norwegian University of Science and Technology)
+Kristian Kersting (Technical University of Dortmund)
+Laks V.S. Lakshmanan (The University of British Columbia)
+Lei Zou (Peking University)
+Lei Chen (Hong Kong University of Science and Technology)
+Li Xiong (Emory University)
+Lucian Popa (IBM Research Almaden)
+Lukasz Golab (University of Waterloo)
+Magdalena Balanziska (University of Washington)
+Makoto Onizuka (Osaka University)
+Manos Athanassoulis (Harvard SEAS)
+Meihui Zhang (Singapore University of Technology and Design)
+Michael Hay (Colgate University)
+Minos Garofalakis (Technical University of Crete)
+Mohamed Sarwat (Arizona State University)
+Mohammad Sadoghi (University of California, Davis)
+Mourad Ouzzani (Qatar Computing Research Institute)
+Murat Kantarcioglu (University of Texas at Dallas)
+Nan Tang (Qatar Computing Research Institute)
+Nicoleta Preta (Universite de Versailles)
+Nikos Mamoulis (The University of Hong Kong)
+Ninghui Li (Purdue University)
+Panagiotis Karras (Aalborg University)
+Panos Kalnis (King Abdullah University of Science and Technology)
+Paolo Papotti (Arizona State University)
+Paraschos Koutris (University of Wisconsin-Madison)
+Peter Alvaro (University of California, Santa Cruz)
+Peter Bailis (MIT and Stanford)
+Peter Pietzuch (Imperial College London)
+Pinar Tozun (IBM Research Almaden)
+Qiong Luo (Hong Kong University of Science and Technology)
+Raghav Kaushik (Microsoft)
+Raymond Chi-Wing Wong (Hong Kong University of Science and Technology)
+Rene Mueller (IBM Research Almaden)
+Reynold Cheng (The University of Hong Kong, China)
+Ryan Johnson (Logic Blox)
+Ryan Stutsman (University of Utah)
+S. Sudarshan (IIT Bombay)
+Sebastian Breß (DFKI GmbH)
+Semih Salihoglu (University of Waterloo)
+Sergey Melnik (Google)
+Sharad Mehotra (University of California, Irvine)
+Shel Finkelstein (University of California at Santa Cruz)
+Shuo Shang (King Abdullah University of Science and Technology)
+Soren Auer (University of Bonn, Germany)
+Sourav Bhowmick (Nanyang Technology University)
+Spyros Blanas (Ohio State University)
+Stan Zdonik (Brown University)
+Stefano Ceri (Politecnico di Milano)
+Steven Whang (Google)
+Stratos Idreos (Harvard)
+Sudeepa Roy (Duke University)
+Sudipto Das (Microsoft Research)
+Tamer Özsu (Waterloo University)
+Theodoros Rekatsinas (Stanford)
+Thomas Neumann (TU Munich)
+Tim Kraska (Brown University)
+Tingjian Ge (University of Massachusetts, Lowell)
+Todd Green (Logic Blox)
+Torben Pedersen (Aarhus University)
+Ulf Leser (Humboldt-Universität zu Berlin)
+Vagelis Hristidis (University of California, Riverside)
+Vassilios S. Verykios (Hellenic Open University)
+Wenfei Fan (University of Edinburgh)
+Wentao Wu (Microsoft)
+Willis Lang (Microsoft Gray Systems)
+Wolfgang Lehner (TU Dresden)
+Wook-Shin Han (POSTECH)
+Xiaofang Zhou (University of Queensland)
+Xiaokui Xiao (Nanyang Technological University)
+Xifeng Yan (University of California, Santa Barbara)
+Yael Amsterdamer (Tel Aviv University)
+Yanif Ahmad (Johns Hopkins University)
+Yannis Katsis (University of California, San Diego)
+Yannis Papakonstantinou (University of California, San Diego)
+Yannis Velegrakis (University of Trento)
+Yeye He (Microsoft)
+Yi Chen (New Jersey Institute of Technology)
+Yin Yang (Hamad Bin Khalifa University)
+Ying Zhang (University of Technology Sydney)
+Yinghui Wu (Washington State University)
+Yuanyuan Tian (IBM Research Almaden)
+Yufei Tao (University of Queensland)
+Yuxiong He (Microsoft)
+Zaiqing Nie (Microsoft)
+Zechao Shang (University of Chicago)
+Zhe Chen (Two Sigma)
+Zhifeng Bao (RMIT University,)
+Zhiwei Zhang (Hong Kong Baptist University)
+Ziawasch Abedjan (TU Berlin)
+
+#2017
+
+-Program Chair
+Dan Suciu (University of Washington, USA)
+
+-Vice Chairs
+Magdalena Balazinska (University of Washington, USA)
+Dan Olteanu (University of Oxford, UK)
+
+-Group Leaders
+Anastasia Ailamaki (EPFL, Switzerland)
+Phil Bernstein (Microsoft Research, USA)
+Yi Chen (New Jersey Institute of Technology, USA)
+Carlo Curino (Microsoft, USA)
+Xin Dong (Google, USA)
+Juliana Freire (New York University, USA)
+Benny Kimelfeld (Technion – Israel Institute of Technology, Israel)
+Hank Korth (Lehigh University, USA)
+Ioana Manolescu (INRIA Saclay and Ecole Polytechnique, France)
+Aditya Parameswaran (University of Illinois Urbana-Champaign, USA)
+Neoklis Polyzotis (Google, USA)
+S. Sudarshan (IIT Bombay, India)
+Yufei Tao (University of Queensland, Australia)
+Jens Teubner (TU Dortmund, Germany)
+
+-PC Members
+Ashraf Aboulnaga
+Eugene Agichtein
+Yanif Ahmad
+Peter Alvaro
+Yael Amsterdamer
+Nicolas Anciaux
+Lyublena Antova
+Arvind Arasu
+Walid Aref
+Peter Bailis
+Zhuowei Bao
+Senjuti Basu Roy
+Michael Benedikt
+Elisa Bertino
+Carsten Binnig
+Spyros Blanas
+Angela Bonifati
+K. Selcuk Candan
+Bogdan Cautis
+Stefano Ceri
+Lei Chen
+James Cheney
+Reynold Cheng
+Alvin Cheung
+John Cieslewicz
+Radu Ciucanu
+Sarah Cohen-Boulakia
+Dario Colazzo
+Tyson Condie
+Graham Cormode
+Gautam Das
+Mahashweta Das
+Sudipto Das
+Altigran-Soares Dasilva
+Daniel Deutch
+Alin Deutsch
+Jens Dittrich
+Harish Doraiswamy
+Eduard Dragut
+Jennie Duggan
+Curtis Dyreson
+Wenfei Fan
+Alan Fekete
+Avrilia Floratou
+Jing Gao
+Wolfgang Gatterbauer
+Tingjian Ge
+Rainer Gemulla
+Boris Glavic
+François Goasdoué
+Todd Green
+Raman Grover
+Torsten Grust
+Oktie Hassanzadeh
+Michael Hay
+Thomas Heinis
+Melanie Herschel
+Katja Hose
+Bill Howe
+Stratos Idreos
+Ihab Ilyas
+Zachary Ives
+H. V. Jagadish
+Alekh Jindal
+Srikanth Kandula
+Yaron Kanza
+Konstantinos Karanasos
+Asterios Katsifodimos
+Yannis Katsis
+Raghav Kaushik
+Oliver Kennedy
+Kristian Kersting
+George Konstantinidis
+Lucja Kot
+Paraschos Koutris
+Tim Kraska
+Rajasekar Krishnamurthy
+Arun Kumar
+Yongchul Kwon
+Alexandros Labrinidis
+Julien Leblay
+Wolfgang Lehner
+Alberto Lerner
+Justin Levandoski
+Chen Li
+Feifei Li
+Guoliang Li
+Jianxin Li
+Yang Li
+Yinan Li
+Xuemin Lin
+Chengfei Liu
+Ling Liu
+Ziyang Liu
+Ashwin Machanavajjhala
+Nikos Mamoulis
+Stefan Manegold
+Davide Martinenghi
+Florent Masseglia
+Giansalvatore Mecca
+Alexandra Meliou
+Sebastian Michel
+Tova Milo
+Mohamed Mokbel
+Bongki Moon
+Ingo Müller
+Arnab Nandi
+Thomas Neumann
+Frank Neven
+Beng Chin Ooi
+Carlos Ordonez
+Vincent Oria
+Giorgio Orsi
+M. Tamer Ozsu
+Stavros Papadopoulos
+Yannis Papakonstantinou
+Stelios Paparizos
+Paolo Papotti
+Jignesh Patel
+Andrew Pavlo
+Peter Pietzuch
+Holger Pirk
+Dan Ports
+Elisa Quintarelli
+Tilmann Rabl
+Vibhor Rastogi
+Theodoros Rekatsinas
+Matthias Renz
+Sudeepa Roy
+Elke Rundensteiner
+Florin Rusu
+Mohammad Sadoghi
+Semih Salihoglu
+Carlo Sartiani
+Mohamed Sarwat
+Sebastian Schelter
+Russell Sears
+Pierre Senellart
+Emad Soroush
+Mike Spear
+Julia Stoyanovich
+Ryan Stutsman
+Letizia Tanca
+Nan Tang
+Nesime Tatbul
+Arash Termehchy
+Martin Theobald
+Pinar Tozun
+Anthony K. H. Tung
+Federico Ulliana
+Vasilis Vassalos
+Yannis Velegrakis
+Stratis Viglas
+Daisy Wang
+Haixun Wang
+Hui Wang
+Jiannan Wang
+Raymond Wong
+Eugene Wu
+Wentao Wu
+Cong Yu
+Jeffery Xu Yu
+Bo Zhao
+
+#2016
+
+-Program Chair
+Sam Madden (MIT, USA)
+
+-PC Track Chairs
+Tim Kraska (Brown University, USA)
+Alexandra Meliou (UMass, Amherst, USA)
+
+-Group Leaders
+Sihem Amer-Yahia (CNRS, France)
+Magdalena Balazinska (University of Washington, USA)
+Carsten Binnig (DHBW Mannheim, Germany)
+Mike Cafarella (University of Michigan, USA)
+Philippe Cudre-Mauroux (University of Fribourg, Switzerland)
+Amol Deshpande (University of Maryland, USA)
+Ihab Ilyas (University of Waterloo, Canada)
+Chris Jermaine (Rice University, USA)
+Justin Levandoski (Microsoft Research, USA)
+Amelie Marian (Rutgers University, USA)
+Kyriakos Mouratidis(Singapore Management University, Singapore)
+Paolo Papotti (QCRI, Qatar)
+Daisy Zhe Wang (University of Florida, USA)
+
+-PC Members
+Daniel Abadi (Yale, USA)
+Ashraf Aboulnaga (Qatar Computing Research Institute, Qatar)
+Foto Afrati (NTU Athens, Greece)
+Sameer Agarwal (Databricks, Inc, USA)
+Yanif Ahmad (Johns Hopkins University, USA)
+Reza Akbarinia (INRIA Sophia Antipolis, France)
+Gustavo Alonso (ETH Zurich, Switzerland)
+Peter Alvaro (UC Berkeley, USA)
+Sihem Amer-Yahia (CNRS/LIG, France)
+Aijun An (York University, Canada)
+Arvind Arasu (Microsoft Research, USA)
+Peter Bailis (UC Berkeley, USA)
+Magda Balazinska (University of Washington, USA)
+Zhuowei Bao (Facebook Inc., USA)
+Denilson Barbosa (University of Alberta, Canada)
+Srikanta Bedathur (IBM Research, India)
+Philip Bernstein (Microsoft Research, USA)
+Carsten Binnig (Brown University, USA)
+Spyros Blanas (Ohio State, USA)
+Michael Bohlen (University of Zurich, Switzerland)
+Francesco Bonchi (Yahoo Labs, Barcelona, Spain)
+Peter Boncz (CWI, Netherlands)
+Angela Bonifati (Lille 1 University and INRIA, France)
+Philippe Bonnet (IT University of Copenhagen, Denmark)
+Stephane Bressan (NUS, Singapore)
+Nico Bruno (Google, USA)
+Michael Cafarella (University of Michigan, USA)
+Mark Callaghan (Facebook, USA)
+K. Selcuk Candan (Arizona State University, USA)
+Kaushik Chakrabarti (Microsoft Research, USA)
+Badrish Chandramouli (Microsoft Research, USA)
+Kevin Chang (University of Illinois at Urbana-Champaign, USA)
+Shimin Chen (ICT, Chinese Academy of Science, China)
+Lei Chen (Hong Kong University of Science and Technology, Hong Kong)
+James Cheng (CUHK, Hong Kong)
+Alvin Cheung (University of Washington, USA)
+Fei Chiang (McMaster University, Canada)
+Sarah Cohen-Boulakia (LRI Universite Paris Sud, France)
+Dario Colazzo (Universite Paris-Dauphine, France)
+Tyson Condie (UCLA, USA)
+Neil Conway (Typical Set LLC, USA)
+Brian Cooper (Google, USA)
+Philippe Cudre-Mauroux (University of Fribourg, Switzerland)
+Bin Cui (Peking U., China)
+Mahashweta Das (HP Labs, USA)
+Sudipto Das (Microsoft Research, USA)
+Antonios Deligiannakis (Technical University of Crete, Greece)
+Amol Deshpande (University of Maryland, USA)
+Stefan Dessloch (TU Kaiserslautern, Germany)
+Jens Dittrich (Saarland University, Germany)
+Luna Dong (Google, USA)
+Chris Douglas (Microsoft, USA)
+Eduard Dragut (Temple Univ., USA)
+Jennie Duggan (Northwestern University, USA)
+Curtis Dyreson (Utah State, USA)
+Aaron Elmore (University of Chicago, USA)
+Alan Fekete (U. Sydney, Australia)
+Shel Finkelstein (UCSC, USA)
+Peter Fischer (Universitat Freiburg, Germany)
+Avrilia Floratou (IBM Almaden, USA)
+Tim Furche (Oxford, United Kingdom)
+Avigdor Gal (Technion, Israel)
+Wolfgang Gatterbauer (CMU Tepper School of Business, USA)
+Tingjian Ge (UMass Lowell, USA)
+Floris Geerts (University of Antwerp, Belgium)
+Rainer Gemulla (Max-Planck-Institut fur Informatik, Germany)
+Boris Glavic (IIT Chicago, USA)
+Lukasz Golab (University of Waterloo, Canada)
+Todd Green (LogicBlox, USA)
+Torsten Grust (U Tubingen, Germany)
+Dimitrios Gunopulos (University of Athens, Greece)
+Jiawei Han (UIUC, USA)
+Wook-Shin Han (POSTECH, South Korea)
+Carmem Hara (Universidade Federal do Parana, Brazil)
+Oktie Hassanzadeh (IBM Research, USA)
+Michael Hay (Colgate, USA)
+Bingsheng He (Nanyang Technological University, Singapore)
+Katja Hose (Aalborg University, Denmark)
+Vagelis Hristidis (UC Riverside, USA)
+Stratos Idreos (Harvard University, USA)
+Ihab Ilyas (University of Waterloo, Canada)
+Zachary Ives (University of Pennsylvania, USA)
+Ruoming Jin (Kent State University, USA)
+Alekh Jindal (MIT, USA)
+Eser Kandogan (IBM Research - Almaden, USA)
+Panagiotis Karras (Skoltech, Russia)
+Asterios Katsifodimos (TU Berlin, Germany)
+Yannis Katsis (UC San Diego, USA)
+Georgios Kellaris (Harvard, USA)
+Anastasios Kementsietsidis (Google Inc., USA)
+Alfons Kemper (University of Munich, Germany)
+Oliver Kennedy (University at Buffalo, USA)
+Eamonn Keogh (UC Riverside, USA)
+Martin Kersten (CWI, Netherlands)
+Daniel Kifer (Penn State, USA)
+Christoph Koch (EPFL, Switzerland)
+George Kollios (Boston University, USA)
+Nick Koudas (University of Toronto, Canada)
+Tim Kraska (Brown University, USA)
+Hongrae Lee (Google, USA)
+Wolfgang Lehner (TU Dresden, Germany)
+Alberto Lerner (New York University, USA)
+Justin Levandoski (Microsoft, USA)
+Chengkai Li (UT Arlington, USA)
+Feifei Li (University of Utah, USA)
+Guoliang Li (Tsinghua University, China)
+Yunyao Li (IBM Research - Almaden, USA)
+Erietta Liarou (EPFL, Switzerland)
+Xuemin Lin (University of New South Wales, Australia)
+Chengfei Liu (Swinburne University of Technology, Australia)
+Eric Lo (Polytecnic University of Hong Kong, Hong Kong)
+Guy Lohman (IBM Research - Almaden, USA)
+Jiaheng Lu (University of Helsinki, Finland)
+Qiong Luo (Hong Kong University of Science and Technology, Hong Kong)
+Shuai Ma (Beihang University, Beijing, China)
+Ashwin Machanavajjhala (Duke U., USA)
+Samuel Madden (MIT, USA)
+Jayant Madhavan (Google, USA)
+David Maier (Portland State University, USA)
+Nikos Mamoulis (U. Hong Kong, Hong Kong)
+Silviu Maniu (Universite Paris-Sud, France)
+Essam Mansour (Qatar Computing Research Institute, Qatar)
+Amelie Marian (Rutgers University, USA)
+Davide Martinenghi (Politecnico di Milano, Italy)
+Gianni Mecca (Universita della Basilicata, Italy)
+Alexandra Meliou (UMass Amherst, USA)
+Sergey Melnik (Google, USA)
+Xiaofeng Meng (Renmin University of China, China)
+Sebastian Michel (TU Kaiserslautern, Germany)
+Umar Minhas (IBM Research, USA)
+Zhou Minqi (East China Normal University, China)
+Mohamed Mokbel (Northeastern University, USA)
+Kyriakos Mouratidis (Singapore Management University, Singapore)
+Barzan Mozafari (University of Michigan, USA)
+Hannes Muhleisen (CWI, Netherlands)
+Arnab Nandi (Ohio State University, USA)
+Vivek Narasayya (Microsoft Research, USA)
+Neha Narula (MIT, USA) 
+Felix Naumann (Hasso Plattner Institute, Germany)
+Muhammad Naveed (University of Illinois at Urbana-Champaign, USA)
+Rimma Nehme (Microsoft, USA)
+Thomas Neumann (TU Munich, Germany)
+Christopher Olston (Google, USA)
+Dan Olteanu (Oxford University & LogicBlox, United Kingdom)
+Beng Chin Ooi (National University of Singapore, Singapore)
+Carlos Ordonez (University of Houston, USA)
+M. Tamer Ozsu (University of Waterloo, Canada)
+Ippokratis Pandis (Cloudera, USA)
+Dimitris Papadopoulos (Boston University, USA)
+Stavros Papadopoulos (Intel Labs and MIT, USA)
+Olga Papaemmanouil (Brandeis University, USA)
+Charalampos Papamanthou (UMD, USA)
+Stelios Paparizos (Microsoft Research, USA) 
+Paolo Papotti (QCRI, Qatar)
+Srinivasan Parthasarathy (Ohio State, USA)
+Alex Passos (Google, USA)
+Andy Pavlo (Carnegie Mellon University, USA)
+Torben Bach Pedersen (Aalborg University, Denmark)
+Jian Pei (Simon Fraser University, Canada)
+Peter Pietzuch (Imperial College London, United Kingdom)
+Holger Pirk (MIT, USA)
+Evaggelia Pitoura (University of Ioannina, Greece)
+Li Qian (Facebook, USA)
+Jorge Quiane-Ruiz (Qatar Computing Research Institute, Qatar)
+Karthik Ramachandra (Microsoft, USA)
+Ravi Ramamurthy (Microsoft Research, USA)
+Vijayshankar Raman (IBM Research - Almaden, USA)
+Christopher Re (Stanford University, USA)
+Tore Risch (Uppsala Universitet, Sweden)
+Florin Rusu (UC Merced, USA)
+Russell Sears (PureStorage, USA)
+Elaine Shi (Cornell University, USA)
+Suvrit Sra (MIT, USA)
+Ion Stoica (UC Berkeley, USA)
+Kian-Lee Tan (National University of Singapore, Singapore)
+Nesime Tatbul (Intel Labs and MIT, USA)
+Anthony Tung (National University of Singapore, Singapore)
+Daisy Zhe Wang (University of Florida, USA)
+Jiannan Wang (UC Berkeley, USA)
+Gerhard Weikum (Max-Planck-Institut fur Informatik, Germany)
+Till Westmann (Oracle, USA)
+Janet Wiener (Facebook, USA)
+Xiaokui Xiao (Nanyang Technological University, Singapore)
+Xiaochun Yang (Northeastern University, China)
+Ken Yocum (Human Longevity, USA)
+Cong Yu (Google Research, USA)
+Matei Zaharia (MIT, USA)
+Kai Zeng (UC Berkeley, USA)
+Kevin Zheng (University of Queensland, Australia)
+Jingren Zhou (Alibaba, USA)

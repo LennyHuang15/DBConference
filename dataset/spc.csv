@@ -1,0 +1,189 @@
+sigmod,2018,Benchmarking and performance evaluation,,,,Michael Cafarella
+sigmod,2018,Crowd sourcing,,,,Tova Milo 
+sigmod,2018,Data models; semantics; query languages,,,,Ken Ross 
+sigmod,2018,Data provenance,,,,Gerome Miklau
+sigmod,2018,Data visualization,,,,Shivnath Babu
+sigmod,2018,Data warehousing; OLAP; SQL Analytics,,,,Jeff Naughton
+sigmod,2018,Database monitoring and tuning,,,,Michael Cafarella
+sigmod,2018,Database security; privacy; access control,,,,Gerome Miklau
+sigmod,2018,Database usability,,,,Wang-Chiew Tan 
+sigmod,2018,Databases for emerging hardware,,,,Michael Cafarella
+sigmod,2018,Distributed and parallel databases,,,,Michael Cafarella
+sigmod,2018,Graph data management; RDF; social networks,,,,Jeffrey Xu Yu
+sigmod,2018,Information extraction,,,,Erhard Rahm 
+sigmod,2018,Information retrieval and text mining,,,,Jeff Naughton
+sigmod,2018,Knowledge discovery; clustering; data mining,,,,Tova Milo 
+sigmod,2018,Query processing and optimization,,,,Shivnath Babu
+sigmod,2018,Schema matching; data integration; and data cleaning,,,,AnHai Doan 
+sigmod,2018,Scientific databases,,,,Bill Howe 
+sigmod,2018,Semi-structured data,,,,Zachary Ives 
+sigmod,2018,Spatio-temporal databases,,,,Walid Aref 
+sigmod,2018,Storage; indexing; and physical database design,,,,Daniel Abadi 
+sigmod,2018,Streams; sensor networks; complex event processing,,,,Arvind Arasu 
+sigmod,2018,Transaction processing,,,,Daniel Abadi 
+sigmod,2018,Uncertain; probabilistic; and approximate database,,,,Michael Cafarella
+,,,,,,
+sigmod,2017,Benchmarking and performance evaluation,,,,Anastasia Ailamaki 
+sigmod,2017,Crowdsourcing,,,,Aditya Parameswaran 
+sigmod,2017,Data models; semantics; query languages,,,,Phil Bernstein 
+sigmod,2017,Data provenance,,,,Juliana Freire 
+sigmod,2017,Data visualization,,,,Juliana Freire 
+sigmod,2017,Data warehousing; OLAP; SQL Analytics,,,,Anastasia Ailamaki 
+sigmod,2017,Database monitoring and tuning,,,,Carlo Curino
+sigmod,2017,Database security; privacy; access control,,,,Carlo Curino
+sigmod,2017,Database usability,,,,Yi Chen 
+sigmod,2017,Databases for emerging hardware,,,,Jens Teubner 
+sigmod,2017,Distributed and parallel databases,,,,Hank Korth 
+sigmod,2017,Graph data management; RDF; social networks,,,,Yi Chen 
+sigmod,2017,Information extraction,,,,Benny Kimelfeld 
+sigmod,2017,Information retrieval and text mining,,,,Xin Dong 
+sigmod,2017,Knowledge discovery; clustering; data mining,,,,Xin Dong 
+sigmod,2017,Query processing and optimization,,,,Yufei Tao 
+sigmod,2017,Schema matching; data integration; and data cleaning,,,,Xin Dong 
+sigmod,2017,Scientific databases,,,,Ioana Manolescu 
+sigmod,2017,Semi-structured data,,,,Neoklis Polyzotis
+sigmod,2017,Spatio-temporal databases,,,,Yufei Tao 
+sigmod,2017,Storage; indexing; and physical database design,,,,S. Sudarshan
+sigmod,2017,Streams; sensor networks; complex event processing,,,,Yi Chen 
+sigmod,2017,Transaction processing,,,,Anastasia Ailamaki 
+sigmod,2017,Uncertain; probabilistic; and approximate database,,,,Neoklis Polyzotis
+,,,,,,
+sigmod,2016,Benchmarking and performance evaluation,,,,Amol Deshpande 
+sigmod,2016,Crowd sourcing,,,,Sihem Amer-Yahia 
+sigmod,2016,Data models; semantics; query languages,,,,Sihem Amer-Yahia 
+sigmod,2016,Data provenance,,,,Amelie Marian 
+sigmod,2016,Data visualization,,,,Amelie Marian 
+sigmod,2016,Data warehousing; OLAP; SQL Analytics,,,,Mike Cafarella 
+sigmod,2016,Database monitoring and tuning,,,,Chris Jermaine 
+sigmod,2016,Database security; privacy; access control,,,,Carsten Binnig 
+sigmod,2016,Database usability,,,,Mike Cafarella 
+sigmod,2016,Databases for emerging hardware,,,,Philippe Cudre-Mauroux 
+sigmod,2016,Distributed and parallel databases,,,,Magdalena Balazinska
+sigmod,2016,Graph data management; RDF; social networks,,,,Kyriakos Mouratidis
+sigmod,2016,Information extraction,,,,Paolo Papotti 
+sigmod,2016,Information retrieval and text mining,,,,Paolo Papotti 
+sigmod,2016,Knowledge discovery; clustering; data mining,,,,Amol Deshpande 
+sigmod,2016,Query processing and optimization,,,,Carsten Binnig 
+sigmod,2016,Schema matching; data integration; and data cleaning,,,,Ihab Ilyas 
+sigmod,2016,Scientific databases,,,,Philippe Cudre-Mauroux 
+sigmod,2016,Semi-structured data,,,,Amelie Marian 
+sigmod,2016,Spatio-temporal databases,,,,Kyriakos Mouratidis
+sigmod,2016,Storage; indexing; and physical database design,,,,Magdalena Balazinska
+sigmod,2016,Streams; sensor networks; complex event processing,,,,Daisy Zhe Wang 
+sigmod,2016,Transaction processing,,,,Justin Levandoski 
+sigmod,2016,Uncertain; probabilistic; and approximate database,,,,Daisy Zhe Wang 
+,,,,,,
+vldb,2018,Access Methods; Concurrency Control; Recovery; Transactions; Indexing and Search; In-memory Data Management; Hardware Accelerators; Query Processing and Optimization; Storage Management,,,,Luc Bouganim
+vldb,2018,Privacy and Security in Data Management,,,,Johannes Gehrke
+vldb,2018,Graph Data Management; Social Networks; Recommendation Systems,,,,Srinivasan Parthasarathy
+vldb,2018,Data Mining and Analytics; Warehousing,,,,Srinivasan Parthasarathy
+vldb,2018,Crowdsourcing; Embedded and Mobile Databases; Real-time Databases; Sensors and IoT; Stream Databases,,,,Meihui Zhang
+vldb,2018,Data Mining and Analytics; Warehousing,,,,Meihui Zhang
+vldb,2018,Data Models and Query Languages; Schema Management and Design; Database Usability; User Interfaces and Visualization,,,,Renee Miller
+vldb,2018,Data Mining and Analytics; Warehousing,,,,Juliana Freire
+vldb,2018,Tuning; Benchmarking; Performance Measurement; Database Administration and Manageability,,,,Yuanyuan Tian
+vldb,2018,Distributed Database Systems; Cloud Data Management; NoSQL; Scalable Analytics; Distributed Transactions; Consistency; P2P and Networked Data Management; Database-as-a-Service; Content Delivery Networks,,,,Andrew Pavlo
+vldb,2018,Provenance and Workflows; Spatial; Temporal; and Multimedia Databases; Scientific and Medical Data Management; Profile-based or Context-Aware Data Management,,,,Mohamed Mokbel
+vldb,2018,Data Cleaning; Information Filtering and Dissemination; Information Integration; Metadata Management; Data Discovery; Web Data Management; Semantic Web; Heterogeneous and Federated Database Systems,,,,Renee Miller
+vldb,2018,Fuzzy; Probabilistic and Approximate Databases; Information Retrieval; Text in Database,,,,Felix Naumann
+vldb,2018,High Performance Query Processing,,,,Yuanyuan Tian
+vldb,2018,Data Preparation and Data Wrangling,,,,Renee Miller
+vldb,2018,Data and Text Analytics,,,,Jimmy Lin
+vldb,2018,Big and Streaming Data,,,,Chris Jermaine
+vldb,2018,Database and Software as a Service,,,,Xiaodong Zhang
+vldb,2018,Database Appliances and Self-Managing Systems,,,,Xiaodong Zhang
+vldb,2018,Distributed and Cloud Computing,,,,Andrew Pavlo
+vldb,2018,Sensor Data and Time Series Analysis,,,,Wook-Shin Han
+vldb,2018,New Hardware Trends,,,,Jens Teubner
+vldb,2018,Social Networking and Graph Databases,,,,Ioana Manolescu
+vldb,2018,Web Data Management and Data Lakes,,,,Jianliang Xu
+vldb,2018,Application Areas where data management technologies are being applie,,,,S. Sudarshan
+,,,,,,
+vldb,2017,Access Methods; Concurrency Control; Recovery; Transactions; Indexing and Search; In-memory Data Management; Hardware Accelerators; Query Processing and Optimization; Storage Management,,,,Stefan Manegold
+vldb,2017,Privacy and Security in Data Management,,,,Sharad Mehrotra
+vldb,2017,Graph Data Management; Social Networks; Recommendation Systems,,,,Amol Deshpande
+vldb,2017,Data Mining and Analytics; Warehousing,,,,Stefan Manegold
+vldb,2017,Crowdsourcing; Embedded and Mobile Databases; Real-time Databases; Sensors and IoT; Stream Databases,,,,Gerhard Weikum
+vldb,2017,Data Models and Query Languages; Schema Management and Design; Database Usability; User Interfaces and Visualization,,,,Rachel Pottinger
+vldb,2017,Tuning; Benchmarking; Performance Measurement; Database Administration and Manageability,,,,
+vldb,2017,Distributed Database Systems; Cloud Data Management; NoSQL; Scalable Analytics; Distributed Transactions; Consistency; P2P and Networked Data Management; Database-as-a-Service; Content Delivery Networks,,,,Zack Ives
+vldb,2017,Provenance and Workflows; Spatial; Temporal; and Multimedia Databases; Scientific and Medical Data Management; Profile-based or Context-Aware Data Management,,,,Zack Ives
+vldb,2017,Data Cleaning; Information Filtering and Dissemination; Information Integration; Metadata Management; Data Discovery; Web Data Management; Semantic Web; Heterogeneous and Federated Database Systems,,,,Ashraf Aboulnaga
+vldb,2017,Fuzzy; Probabilistic and Approximate Databases; Information Retrieval; Text in Database,,,,Zack Ives
+vldb,2017,High Performance Query Processing,,,,Fatma Ozcan
+vldb,2017,Data Preparation and Data Wrangling,,,,Ken Ross 
+vldb,2017,Data and Text Analytics,,,,Gerhard Weikum
+vldb,2017,Application Areas (Finance; Government; Retail; TelCo; Health and Life Sciences; Social Networks; Ð±Ð½),,,,Themis Palpanas
+vldb,2017,Big and Streaming Data,,,,Themis Palpanas
+vldb,2017,Database and Software as a Service,,,,Gautam Das
+vldb,2017,Database Appliances and Self-Managing Systems,,,,Gerhard Weikum
+vldb,2017,Distributed and Cloud Computing,,,,Ioana Manolescu
+vldb,2017,Sensor Data and Time Series Analysis,,,,Ioana Manolescu
+vldb,2017,New Hardware Trends,,,,Shimin Chen
+vldb,2017,Social Networking and Graph Databases,,,,Gautam Das
+vldb,2017,Web Data Management and Data Lakes,,,,Qiong Luo
+,,,,,,
+vldb,2016,Distributed Data Platforms; including Cloud Data systems; Key Value stores; Big Data systems,,,,Peter Boncz
+vldb,2016,Transaction Processing; Query Processing; Indexing and Storage; Meta-data management; Self-Tuning technology,,,,Daniel Abadi
+vldb,2016,Specialized Data Architectures including Data Streams and IOT architectures; Cold Storage; and Hardware-Software Co-design,,,,
+vldb,2016,Data Cleaning; Data Analytics; and Data Integration,,,,Alon Halevy
+vldb,2016,Information Retrieval and Data Mining,,,,Alon Halevy
+vldb,2016,Applications including Social Networks; Crowdsourcing; and E-commerce systems,,,,Ihab Ilyas
+vldb,2016,User and Application Programming Interfaces to Data Platforms; including keyword queries; declarative and imperative languages,,,,Ihab Ilyas
+vldb,2016,Benchmarking; Tuning; and Testing,,,,Peter Boncz
+vldb,2016,Advanced Analytics,,,,Donald Kossman
+vldb,2016,Application Areas (e.g. Finance; Government; Retail; Telecommunications; Health and Life Sciences),,,,Sunita Sarawagi
+vldb,2016,Big Data,,,,Alan Fekete
+vldb,2016,Cloud Computing,,,,Alan Fekete
+vldb,2016,Context-Aware Computing,,,,Kian-Lee Tan
+vldb,2016,Database Appliances,,,,Donald Kossman
+vldb,2016,Mobile Data Management,,,,Minos Garofalakis
+vldb,2016,New Hardware Trends,,,,Kian-Lee Tan
+vldb,2016,Self-Managing Systems,,,,Donald Kossman
+vldb,2016,Social Networking,,,,Kyuseok Shim
+vldb,2016,Software as a Service,,,,Kyuseok Shim
+vldb,2016,Web Data Management,,,,Minos Garofalakis
+,,,,,,
+icde,2018,AI interaction with DB technology,,,,Tiziana Catarci
+icde,2018,Big Data; Data-Warehousing System Architectures,,,,Amr El Abbadi
+icde,2018,Benchmarking; Performance Modelling; and Tuning,,,,Shimin Chen£¬Demetris Zeinalipour
+icde,2018,Crowdsourcing,,,,Meihui Zhang
+icde,2018,Cloud Computing and Database-as-a-Service,,,,Tiziana Catarci
+icde,2018,Database Privacy; Security; and Trust,,,,Evimaria Terzi
+icde,2018,Data Science,,,,H.V. Jagadish
+icde,2018,Data Integration; Metadata Management; and Interoperability,,,,Evaggelia Pitoura
+icde,2018,Data Models; Semantics; Query languages,,,,Rachel Pottinger
+icde,2018,Data Mining and Knowledge Discovery,,,,Rachel Pottinger
+icde,2018,Data Provenance; Workflows; Scientific Data Management,,,,Jonathan Goldstein
+icde,2018,Data Stream Systems and Sensor Networks,,,,Spyros Blanas
+icde,2018,Data Visualization and Interactive Data Exploration,,,,Mohamed Sharaf
+icde,2018,Distributed; Parallel and P2P Data Management,,,,Tirthankar Lahiri
+icde,2018,High Performance Transaction Management,,,,Eric Lo
+icde,2018,Information Extraction; Data Cleaning Curation,,,,Ashraf Aboulnaga
+icde,2018,Modern Hardware and In-Memory Database Systems,,,,Spyros Blanas
+icde,2018,Query Processing; Indexing; and Optimization,,,,Timos Sellis
+icde,2018,Scalable Analytics; Graph; RDF; Web Data and Social Networks,,,,Angela Bonifati£¬Bin Cui
+icde,2018,Strings; Texts; and Keyword Search,,,,Yannis Velegrakis
+icde,2018,Temporal; Spatial; Mobile and Multimedia Data,,,,Timos Sellis£¬Gao Cong£¬Christian S. Jensen
+icde,2018,Uncertain; Probabilistic and Approximate Databases,,,,Adam Lee
+,,,,,,
+icde,2017,Benchmarking; Performance Modeling; and Tuning,,,,Tamer _zsu
+icde,2017,Cloud Computing and Database-as-a-Service,,,,Tamer _zsu
+icde,2017,Crowdsourcing,,,,Lei Chen
+icde,2017,Database Privacy; Security; and Trust,,,,Gerome Miklau
+icde,2017,Data Warehousing and SQL Analytics,,,,Stratos Idreos
+icde,2017,Data Integration; Metadata Management; and Interoperability,,,,Chen Li
+icde,2017,Data Models; Semantics; Query languages,,,,Olga Papaemmanouil
+icde,2017,Data Mining and Knowledge Discovery,,,,Christopher Jermaine
+icde,2017,Data Provenance; Workflows; Scientific Data Management,,,,Olga Papaemmanouil
+icde,2017,Data Visualization and Interactive Data Exploration,,,,Eugene Wu
+icde,2017,Distributed and Parallel Databases; Scalable Analytics,,,,Tamer _zsu
+icde,2017,Graph Data; RDF and Web Data; Social Networks,,,,Reynold Cheng
+icde,2017,Information Extraction and Data Cleaning,,,,Wolfgang Gatterbauer
+icde,2017,Modern Hardware and In-Memory Database Systems,,,,Bingsheng He
+icde,2017,Query Processing; Indexing; and Optimization,,,,Evimaria Terzi
+icde,2017,Stream Systems and Sensor Networks,,,,Evimaria Terzi
+icde,2017,Strings; Texts; and Keyword Search,,,,Chen Li
+icde,2017,Transaction Processing,,,,Stratos Idreos
+icde,2017,Temporal; Spatial; Mobile; and Multimedia Data,,,,Stratos Idreos
+icde,2017,Uncertain; Probabilistic and Approximate Databases,,,,Reynold Cheng

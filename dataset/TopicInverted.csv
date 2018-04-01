@@ -1,0 +1,291 @@
+AI interaction with DB technology
+icde2018 
+
+Access Methods; Concurrency Control; Recovery; Transactions; Indexing and Search; In-memory Data Management; Hardware Accelerators; Query Processing and Optimization; Storage Management
+vldb2018 vldb2017 
+
+Advanced Analytics
+vldb2016 
+
+Application Areas (Finance; Government; Retail; TelCo; Health and Life Sciences; Social Networks; бн)
+vldb2017 
+
+Application Areas (e.g. Finance; Government; Retail; Telecommunications; Health and Life Sciences)
+vldb2016 
+
+Application Areas where data management technologies are being applie
+vldb2018 
+
+Applications including Social Networks; Crowdsourcing; and E-commerce systems
+vldb2016 
+
+Benchmarking and performance evaluation
+sigmod2018 sigmod2017 sigmod2016 
+
+Benchmarking; Performance Modeling; and Tuning
+icde2017 
+
+Benchmarking; Performance Modelling; and Tuning
+icde2018 
+
+Benchmarking; Tuning; and Testing
+vldb2016 
+
+Big Data
+vldb2016 
+
+Big Data; Data-Warehousing System Architectures
+icde2018 
+
+Big and Streaming Data
+vldb2018 vldb2017 
+
+Cloud Computing
+vldb2016 
+
+Cloud Computing and Database-as-a-Service
+icde2018 icde2017 
+
+Context-Aware Computing
+vldb2016 
+
+Crowd sourcing
+sigmod2018 sigmod2016 
+
+Crowdsourcing
+sigmod2017 icde2018 icde2017 
+
+Crowdsourcing; Embedded and Mobile Databases; Real-time Databases; Sensors and IoT; Stream Databases
+vldb2018 vldb2017 
+
+Data Cleaning; Data Analytics; and Data Integration
+vldb2016 
+
+Data Cleaning; Information Filtering and Dissemination; Information Integration; Metadata Management; Data Discovery; Web Data Management; Semantic Web; Heterogeneous and Federated Database Systems
+vldb2018 vldb2017 
+
+Data Integration; Metadata Management; and Interoperability
+icde2018 icde2017 
+
+Data Mining and Analytics; Warehousing
+vldb2018 vldb2018 vldb2018 vldb2017 
+
+Data Mining and Knowledge Discovery
+icde2018 icde2017 
+
+Data Models and Query Languages; Schema Management and Design; Database Usability; User Interfaces and Visualization
+vldb2018 vldb2017 
+
+Data Models; Semantics; Query languages
+icde2018 icde2017 
+
+Data Preparation and Data Wrangling
+vldb2018 vldb2017 
+
+Data Provenance; Workflows; Scientific Data Management
+icde2018 icde2017 
+
+Data Science
+icde2018 
+
+Data Stream Systems and Sensor Networks
+icde2018 
+
+Data Visualization and Interactive Data Exploration
+icde2018 icde2017 
+
+Data Warehousing and SQL Analytics
+icde2017 
+
+Data and Text Analytics
+vldb2018 vldb2017 
+
+Data models; semantics; query languages
+sigmod2018 sigmod2017 sigmod2016 
+
+Data provenance
+sigmod2018 sigmod2017 sigmod2016 
+
+Data visualization
+sigmod2018 sigmod2017 sigmod2016 
+
+Data warehousing; OLAP; SQL Analytics
+sigmod2018 sigmod2017 sigmod2016 
+
+Database Appliances
+vldb2016 
+
+Database Appliances and Self-Managing Systems
+vldb2018 vldb2017 
+
+Database Privacy; Security; and Trust
+icde2018 icde2017 
+
+Database and Software as a Service
+vldb2018 vldb2017 
+
+Database monitoring and tuning
+sigmod2018 sigmod2017 sigmod2016 
+
+Database security; privacy; access control
+sigmod2018 sigmod2017 sigmod2016 
+
+Database usability
+sigmod2018 sigmod2017 sigmod2016 
+
+Databases for emerging hardware
+sigmod2018 sigmod2017 sigmod2016 
+
+Distributed Data Platforms; including Cloud Data systems; Key Value stores; Big Data systems
+vldb2016 
+
+Distributed Database Systems; Cloud Data Management; NoSQL; Scalable Analytics; Distributed Transactions; Consistency; P2P and Networked Data Management; Database-as-a-Service; Content Delivery Networks
+vldb2018 vldb2017 
+
+Distributed and Cloud Computing
+vldb2018 vldb2017 
+
+Distributed and Parallel Databases; Scalable Analytics
+icde2017 
+
+Distributed and parallel databases
+sigmod2018 sigmod2017 sigmod2016 
+
+Distributed; Parallel and P2P Data Management
+icde2018 
+
+Fuzzy; Probabilistic and Approximate Databases; Information Retrieval; Text in Database
+vldb2018 vldb2017 
+
+Graph Data Management; Social Networks; Recommendation Systems
+vldb2018 vldb2017 
+
+Graph Data; RDF and Web Data; Social Networks
+icde2017 
+
+Graph data management; RDF; social networks
+sigmod2018 sigmod2017 sigmod2016 
+
+High Performance Query Processing
+vldb2018 vldb2017 
+
+High Performance Transaction Management
+icde2018 
+
+Information Extraction and Data Cleaning
+icde2017 
+
+Information Extraction; Data Cleaning Curation
+icde2018 
+
+Information Retrieval and Data Mining
+vldb2016 
+
+Information extraction
+sigmod2018 sigmod2017 sigmod2016 
+
+Information retrieval and text mining
+sigmod2018 sigmod2017 sigmod2016 
+
+Knowledge discovery; clustering; data mining
+sigmod2018 sigmod2017 sigmod2016 
+
+Mobile Data Management
+vldb2016 
+
+Modern Hardware and In-Memory Database Systems
+icde2018 icde2017 
+
+New Hardware Trends
+vldb2018 vldb2017 vldb2016 
+
+Privacy and Security in Data Management
+vldb2018 vldb2017 
+
+Provenance and Workflows; Spatial; Temporal; and Multimedia Databases; Scientific and Medical Data Management; Profile-based or Context-Aware Data Management
+vldb2018 vldb2017 
+
+Query Processing; Indexing; and Optimization
+icde2018 icde2017 
+
+Query processing and optimization
+sigmod2018 sigmod2017 sigmod2016 
+
+Scalable Analytics; Graph; RDF; Web Data and Social Networks
+icde2018 
+
+Schema matching; data integration; and data cleaning
+sigmod2018 sigmod2017 sigmod2016 
+
+Scientific databases
+sigmod2018 sigmod2017 sigmod2016 
+
+Self-Managing Systems
+vldb2016 
+
+Semi-structured data
+sigmod2018 sigmod2017 sigmod2016 
+
+Sensor Data and Time Series Analysis
+vldb2018 vldb2017 
+
+Social Networking
+vldb2016 
+
+Social Networking and Graph Databases
+vldb2018 vldb2017 
+
+Software as a Service
+vldb2016 
+
+Spatio-temporal databases
+sigmod2018 sigmod2017 sigmod2016 
+
+Specialized Data Architectures including Data Streams and IOT architectures; Cold Storage; and Hardware-Software Co-design
+vldb2016 
+
+Storage; indexing; and physical database design
+sigmod2018 sigmod2017 sigmod2016 
+
+Stream Systems and Sensor Networks
+icde2017 
+
+Streams; sensor networks; complex event processing
+sigmod2018 sigmod2017 sigmod2016 
+
+Strings; Texts; and Keyword Search
+icde2018 icde2017 
+
+Temporal; Spatial; Mobile and Multimedia Data
+icde2018 
+
+Temporal; Spatial; Mobile; and Multimedia Data
+icde2017 
+
+Transaction Processing
+icde2017 
+
+Transaction Processing; Query Processing; Indexing and Storage; Meta-data management; Self-Tuning technology
+vldb2016 
+
+Transaction processing
+sigmod2018 sigmod2017 sigmod2016 
+
+Tuning; Benchmarking; Performance Measurement; Database Administration and Manageability
+vldb2018 vldb2017 
+
+Uncertain; Probabilistic and Approximate Databases
+icde2018 icde2017 
+
+Uncertain; probabilistic; and approximate database
+sigmod2018 sigmod2017 sigmod2016 
+
+User and Application Programming Interfaces to Data Platforms; including keyword queries; declarative and imperative languages
+vldb2016 
+
+Web Data Management
+vldb2016 
+
+Web Data Management and Data Lakes
+vldb2018 vldb2017 
+

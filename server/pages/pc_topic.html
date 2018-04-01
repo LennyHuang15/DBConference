@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>pc-topic</title>
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <script src="https://cdn.rawgit.com/newrelic-forks/d3-plugins-sankey/master/sankey.js"></script>
+    <script src="https://cdn.rawgit.com/misoproject/d3.chart/master/d3.chart.min.js"></script>
+    <script src="https://cdn.rawgit.com/q-m/d3.chart.sankey/master/d3.chart.sankey.min.js"></script>
+    <style>
+      body {
+        padding: 10px;
+        min-width: 600px;
+        max-width: 1200px;
+        margin: auto;
+      }
+      #chart {
+        height: 800px;
+        font: 13px sans-serif;
+      }
+      .node rect {
+        fill-opacity: .9;
+        shape-rendering: crispEdges;
+        stroke-width: 0;
+      }
+      .node text {
+        text-shadow: 0 1px 0 #fff;
+      }
+      .link {
+        fill: none;
+        stroke: #000;
+        stroke-opacity: .2;
+      }
+    </style>
+  </head>
+  <body>
+	<form>
+		<label><input type="radio" name="conf" value="sigmod2018" checked> sigmod2018</label>
+		<label><input type="radio" name="conf" value="sigmod2017"> sigmod2017</label>
+		<label><input type="radio" name="conf" value="sigmod2016"> sigmod2016</label>
+		<label><input type="radio" name="conf" value="vldb2018"> vldb2018</label>
+		<label><input type="radio" name="conf" value="vldb2017"> vldb2017</label>
+		<label><input type="radio" name="conf" value="vldb2016"> vldb2016</label>
+		<label><input type="radio" name="conf" value="icde2018"> icde2018</label>
+		<label><input type="radio" name="conf" value="icde2017"> icde2017</label>
+	</form>
+    <div id="chart"></div>
+
+    <script>
+      var colors = {
+            'environment':         '#edbd00',
+            'social':              '#367d85',
+            'animals':             '#97ba4c',
+            'health':              '#f5662b',
+            'research_ingredient': '#3f3e47',
+            'fallback':            '#9f9fa3'
+          };
+	var color_fallback = '#9f9fa3';
+	var conference = 'sigmod', year = '2018';
+	var json = {"nodes":[], "links":[]};
+	var svg = d3.select("#chart").append("svg");
+	requestJson(this.conference, this.year);
+      //d3.json("https://cdn.rawgit.com/q-m/d3.chart.sankey/master/example/data/product.json", function(error, json) {
+      //d3.json("pages/d3.chart.sankey/example/data/foo.json", function(error, json) {
+	d3.selectAll("input")
+		.on("change", changed);
+	function changed() {
+		if(this.name === "conf"){
+			year = this.value.slice(-4);
+			conference = this.value.slice(0, -4);
+			requestJson(conference, year);
+		}
+	}
+	function updateData(conf, year){
+		console.log(this.json);
+		if(this.svg){
+			this.svg.remove();
+			this.svg = d3.select("#chart").append("svg");
+		}
+        var chart = this.svg.chart("Sankey.Path");
+        chart
+          .name(label)
+          .colorNodes('black')
+          .colorLinks(d3.scale.category20c())
+          .nodeWidth(15)
+          .nodePadding(10)
+          .spread(true)
+          .iterations(0)
+          .draw(this.json);
+        function label(node) {
+			return node.name.toString().replace(/\s*\(.*?\)$/, '');
+        }
+        function color(node, depth) {
+			return '#000000';
+          var id = node.name.replace(/(_score)?(_\d+)?$/, '');
+          if (colors[id]) {
+            return colors[id];
+          } else if (depth > 0 && node.targetLinks && node.targetLinks.length == 1) {
+            return color(node.targetLinks[0].source, depth-1);
+          } else {
+            return null;
+          }
+        }
+      }
+	function requestJson(conf, year){
+		var request = new XMLHttpRequest();
+		request.open("POST", "", true);
+		request.setRequestHeader("Content-type", "application/json;charset=utf-8");
+		var self = this;
+		this.json = {"nodes":[], "links":[]};
+		request.onreadystatechange = function() {
+			if (request.readyState == 4) {
+				if(request.status != 200 && request.status != 304){
+					self.json = {"nodes":[], "links":[]};
+				} else {
+					var responseData = JSON.parse(request.responseText);
+					console.log(responseData);
+					var num_topic = responseData['topic'].length;
+					for(var i = 0; i < num_topic; i++){
+						self.json["nodes"][i] = {'name': responseData['topic'][i] ,'citations': 0};
+					}
+					for(var i = 0; i < responseData['pc'].length; i++){
+						var pc = responseData['pc'][i];
+						self.json["nodes"][i+num_topic] = 
+							{'pid': pc['pid'], 'name': pc['name'], 'affiliation': pc['affiliation'] ,'citations': 0};
+						for(var j = 0; j < num_topic; j++){
+							var citations = pc['citations_topic'][j];
+							self.json["links"].push(
+								{"source": i+num_topic, "target": j, "value": citations});
+							self.json["nodes"][i+num_topic]['citations'] += citations;
+							self.json["nodes"][j]['citations'] += citations;
+						}
+					}
+				}
+				self.updateData();
+			}
+		}
+		var userData = {
+			'title': 'pc_topic',
+			'conference': conf,
+			'year': year
+		};
+		request.send(JSON.stringify(userData));
+	}
+	function myJson(){
+		this.json = {
+		"nodes" : [
+			{"name": "Foo"},
+			{"name": "Bar"},
+			{"name": "Blaat"},
+			{"name": "Booh"},
+			{"name": "Blup"},
+			{"name": "Sheep"}
+		],
+		"links" : [
+			{"source": 0, "target": 1, "value": 10},
+			{"source": 0, "target": 2, "value": 15},
+			{"source": 1, "target": 3, "value": 3},
+			{"source": 1, "target": 4, "value": 6},
+			{"source": 1, "target": 5, "value": 1},
+			{"source": 2, "target": 3, "value": 15}
+		]};
+	}
+    </script>
+  </body>
+</html>

@@ -1,0 +1,183 @@
+Conference, Year, Topic, PID
+sigmod,2018,Benchmarking and performance evaluation,r1quzEkAAAAJ
+sigmod,2018,Crowd sourcing,X1-ovCkAAAAJ
+sigmod,2018,Data models; semantics; query languages,gv2S7xYAAAAJ
+sigmod,2018,Data provenance,mlafJ6wAAAAJ
+sigmod,2018,Data visualization,*Shivnath Babu
+sigmod,2018,Data warehousing; OLAP; SQL Analytics,H-VmFU4AAAAJ
+sigmod,2018,Database monitoring and tuning,r1quzEkAAAAJ
+sigmod,2018,Database security; privacy; access control,mlafJ6wAAAAJ
+sigmod,2018,Database usability,sOY-wjkAAAAJ
+sigmod,2018,Databases for emerging hardware,r1quzEkAAAAJ
+sigmod,2018,Distributed and parallel databases,r1quzEkAAAAJ
+sigmod,2018,Graph data management; RDF; social networks,iHevumsAAAAJ
+sigmod,2018,Information extraction,N9wi5soAAAAJ
+sigmod,2018,Information retrieval and text mining,H-VmFU4AAAAJ
+sigmod,2018,Knowledge discovery; clustering; data mining,X1-ovCkAAAAJ
+sigmod,2018,Query processing and optimization,*Shivnath Babu
+sigmod,2018,Schema matching; data integration; and data cleaning,Qa_TAw4AAAAJ
+sigmod,2018,Scientific databases,dQ-x9NQAAAAJ
+sigmod,2018,Semi-structured data,2wJaIkEAAAAJ
+sigmod,2018,Spatio-temporal databases,vX45evgAAAAJ
+sigmod,2018,Storage; indexing; and physical database design,zxeEF2gAAAAJ
+sigmod,2018,Streams; sensor networks; complex event processing,*Arvind Arasu
+sigmod,2018,Transaction processing,zxeEF2gAAAAJ
+sigmod,2018,Uncertain; probabilistic; and approximate database,r1quzEkAAAAJ
+sigmod,2017,Benchmarking and performance evaluation,YdrkeNwAAAAJ
+sigmod,2017,Crowdsourcing,VeB3UbcAAAAJ
+sigmod,2017,Data models; semantics; query languages,6OEYXEIAAAAJ
+sigmod,2017,Data provenance,sSzAlq0AAAAJ
+sigmod,2017,Data visualization,sSzAlq0AAAAJ
+sigmod,2017,Data warehousing; OLAP; SQL Analytics,YdrkeNwAAAAJ
+sigmod,2017,Database monitoring and tuning,wb9DYOEAAAAJ
+sigmod,2017,Database security; privacy; access control,wb9DYOEAAAAJ
+sigmod,2017,Database usability,XbLPeQcAAAAJ
+sigmod,2017,Databases for emerging hardware,SdGU2bMAAAAJ
+sigmod,2017,Distributed and parallel databases,4VLZdawAAAAJ
+sigmod,2017,Graph data management; RDF; social networks,XbLPeQcAAAAJ
+sigmod,2017,Information extraction,bxSK7o8AAAAJ
+sigmod,2017,Information retrieval and text mining,e8WrHMwAAAAJ
+sigmod,2017,Knowledge discovery; clustering; data mining,e8WrHMwAAAAJ
+sigmod,2017,Query processing and optimization,3FmJBHkAAAAJ
+sigmod,2017,Schema matching; data integration; and data cleaning,e8WrHMwAAAAJ
+sigmod,2017,Scientific databases,q6Ft35wAAAAJ
+sigmod,2017,Semi-structured data,8RZQjpEAAAAJ
+sigmod,2017,Spatio-temporal databases,3FmJBHkAAAAJ
+sigmod,2017,Storage; indexing; and physical database design,KtP9-zYAAAAJ
+sigmod,2017,Streams; sensor networks; complex event processing,XbLPeQcAAAAJ
+sigmod,2017,Transaction processing,YdrkeNwAAAAJ
+sigmod,2017,Uncertain; probabilistic; and approximate database,8RZQjpEAAAAJ
+sigmod,2016,Benchmarking and performance evaluation,pOh1as0AAAAJ
+sigmod,2016,Crowd sourcing,rMtUkMcAAAAJ
+sigmod,2016,Data models; semantics; query languages,rMtUkMcAAAAJ
+sigmod,2016,Data provenance,hcqjUUQAAAAJ
+sigmod,2016,Data visualization,hcqjUUQAAAAJ
+sigmod,2016,Data warehousing; OLAP; SQL Analytics,r1quzEkAAAAJ
+sigmod,2016,Database monitoring and tuning,D2P2B0MAAAAJ
+sigmod,2016,Database security; privacy; access control,Iqsl_XMAAAAJ
+sigmod,2016,Database usability,r1quzEkAAAAJ
+sigmod,2016,Databases for emerging hardware,GhGV4P8AAAAJ
+sigmod,2016,Distributed and parallel databases,DDxFvcIAAAAJ
+sigmod,2016,Graph data management; RDF; social networks,vq5oTnEAAAAJ
+sigmod,2016,Information extraction,YwoezYX7JVgJ
+sigmod,2016,Information retrieval and text mining,YwoezYX7JVgJ
+sigmod,2016,Knowledge discovery; clustering; data mining,pOh1as0AAAAJ
+sigmod,2016,Query processing and optimization,Iqsl_XMAAAAJ
+sigmod,2016,Schema matching; data integration; and data cleaning,YG6mTEIAAAAJ
+sigmod,2016,Scientific databases,GhGV4P8AAAAJ
+sigmod,2016,Semi-structured data,hcqjUUQAAAAJ
+sigmod,2016,Spatio-temporal databases,vq5oTnEAAAAJ
+sigmod,2016,Storage; indexing; and physical database design,DDxFvcIAAAAJ
+sigmod,2016,Streams; sensor networks; complex event processing,gMOBKfUAAAAJ
+sigmod,2016,Transaction processing,jfdT_HIAAAAJ
+sigmod,2016,Uncertain; probabilistic; and approximate database,gMOBKfUAAAAJ
+vldb,2018,Access Methods; Concurrency Control; Recovery; Transactions; Indexing and Search; In-memory Data Management; Hardware Accelerators; Query Processing and Optimization; Storage Management,AQJggUwAAAAJ
+vldb,2018,Privacy and Security in Data Management,FtbGhBQAAAAJ
+vldb,2018,Graph Data Management; Social Networks; Recommendation Systems,2mjUsP8AAAAJ
+vldb,2018,Data Mining and Analytics; Warehousing,2mjUsP8AAAAJ
+vldb,2018,Crowdsourcing; Embedded and Mobile Databases; Real-time Databases; Sensors and IoT; Stream Databases,DuLgpaQAAAAJ
+vldb,2018,Data Mining and Analytics; Warehousing,DuLgpaQAAAAJ
+vldb,2018,Data Models and Query Languages; Schema Management and Design; Database Usability; User Interfaces and Visualization,NjeM1LsAAAAJ
+vldb,2018,Data Mining and Analytics; Warehousing,*Juliana Freire
+vldb,2018,Tuning; Benchmarking; Performance Measurement; Database Administration and Manageability,_XE_jhQAAAAJ
+vldb,2018,Distributed Database Systems; Cloud Data Management; NoSQL; Scalable Analytics; Distributed Transactions; Consistency; P2P and Networked Data Management; Database-as-a-Service; Content Delivery Networks,u1UDm4wAAAAJ
+vldb,2018,Provenance and Workflows; Spatial; Temporal; and Multimedia Databases; Scientific and Medical Data Management; Profile-based or Context-Aware Data Management,GHz1ZVIAAAAJ
+vldb,2018,Data Cleaning; Information Filtering and Dissemination; Information Integration; Metadata Management; Data Discovery; Web Data Management; Semantic Web; Heterogeneous and Federated Database Systems,NjeM1LsAAAAJ
+vldb,2018,Fuzzy; Probabilistic and Approximate Databases; Information Retrieval; Text in Database,Pqf21y0AAAAJ
+vldb,2018,High Performance Query Processing,_XE_jhQAAAAJ
+vldb,2018,Data Preparation and Data Wrangling,NjeM1LsAAAAJ
+vldb,2018,Data and Text Analytics,0EWw1z8AAAAJ
+vldb,2018,Big and Streaming Data,*Chris Jermaine
+vldb,2018,Database and Software as a Service,qFiMLsIAAAAJ
+vldb,2018,Database Appliances and Self-Managing Systems,qFiMLsIAAAAJ
+vldb,2018,Distributed and Cloud Computing,u1UDm4wAAAAJ
+vldb,2018,Sensor Data and Time Series Analysis,Jp_w2IwAAAAJ
+vldb,2018,New Hardware Trends,SdGU2bMAAAAJ
+vldb,2018,Social Networking and Graph Databases,q6Ft35wAAAAJ
+vldb,2018,Web Data Management and Data Lakes,LJNsBeoAAAAJ
+vldb,2018,Application Areas where data management technologies are being applie,KtP9-zYAAAAJ
+vldb,2017,Access Methods; Concurrency Control; Recovery; Transactions; Indexing and Search; In-memory Data Management; Hardware Accelerators; Query Processing and Optimization; Storage Management,BauIS1IAAAAJ
+vldb,2017,Privacy and Security in Data Management,MTZaRW4AAAAJ
+vldb,2017,Graph Data Management; Social Networks; Recommendation Systems,pOh1as0AAAAJ
+vldb,2017,Data Mining and Analytics; Warehousing,BauIS1IAAAAJ
+vldb,2017,Crowdsourcing; Embedded and Mobile Databases; Real-time Databases; Sensors and IoT; Stream Databases,vNAD0mAAAAAJ
+vldb,2017,Data Models and Query Languages; Schema Management and Design; Database Usability; User Interfaces and Visualization,B_GQDXMAAAAJ
+vldb,2017,Tuning; Benchmarking; Performance Measurement; Database Administration and Manageability,*
+vldb,2017,Distributed Database Systems; Cloud Data Management; NoSQL; Scalable Analytics; Distributed Transactions; Consistency; P2P and Networked Data Management; Database-as-a-Service; Content Delivery Networks,2wJaIkEAAAAJ
+vldb,2017,Provenance and Workflows; Spatial; Temporal; and Multimedia Databases; Scientific and Medical Data Management; Profile-based or Context-Aware Data Management,2wJaIkEAAAAJ
+vldb,2017,Data Cleaning; Information Filtering and Dissemination; Information Integration; Metadata Management; Data Discovery; Web Data Management; Semantic Web; Heterogeneous and Federated Database Systems,47sihrsAAAAJ
+vldb,2017,Fuzzy; Probabilistic and Approximate Databases; Information Retrieval; Text in Database,2wJaIkEAAAAJ
+vldb,2017,High Performance Query Processing,JzoifEMAAAAJ
+vldb,2017,Data Preparation and Data Wrangling,gv2S7xYAAAAJ
+vldb,2017,Data and Text Analytics,vNAD0mAAAAAJ
+vldb,2017,Application Areas (Finance; Government; Retail; TelCo; Health and Life Sciences; Social Networks; бн),qUBdmWgAAAAJ
+vldb,2017,Big and Streaming Data,qUBdmWgAAAAJ
+vldb,2017,Database and Software as a Service,oleB9xIAAAAJ
+vldb,2017,Database Appliances and Self-Managing Systems,vNAD0mAAAAAJ
+vldb,2017,Distributed and Cloud Computing,q6Ft35wAAAAJ
+vldb,2017,Sensor Data and Time Series Analysis,q6Ft35wAAAAJ
+vldb,2017,New Hardware Trends,mGPuiasAAAAJ
+vldb,2017,Social Networking and Graph Databases,oleB9xIAAAAJ
+vldb,2017,Web Data Management and Data Lakes,SqAsppUAAAAJ
+vldb,2016,Distributed Data Platforms; including Cloud Data systems; Key Value stores; Big Data systems,DCIZE1kAAAAJ
+vldb,2016,Transaction Processing; Query Processing; Indexing and Storage; Meta-data management; Self-Tuning technology,zxeEF2gAAAAJ
+vldb,2016,Specialized Data Architectures including Data Streams and IOT architectures; Cold Storage; and Hardware-Software Co-design,*
+vldb,2016,Data Cleaning; Data Analytics; and Data Integration,F_MI0pcAAAAJ
+vldb,2016,Information Retrieval and Data Mining,F_MI0pcAAAAJ
+vldb,2016,Applications including Social Networks; Crowdsourcing; and E-commerce systems,YG6mTEIAAAAJ
+vldb,2016,User and Application Programming Interfaces to Data Platforms; including keyword queries; declarative and imperative languages,YG6mTEIAAAAJ
+vldb,2016,Benchmarking; Tuning; and Testing,DCIZE1kAAAAJ
+vldb,2016,Advanced Analytics,*Donald Kossman
+vldb,2016,Application Areas (e.g. Finance; Government; Retail; Telecommunications; Health and Life Sciences),Hg4HmTAAAAAJ
+vldb,2016,Big Data,Hs9cVRgAAAAJ
+vldb,2016,Cloud Computing,Hs9cVRgAAAAJ
+vldb,2016,Context-Aware Computing,ca7BUlkAAAAJ
+vldb,2016,Database Appliances,*Donald Kossman
+vldb,2016,Mobile Data Management,*Minos Garofalakis
+vldb,2016,New Hardware Trends,ca7BUlkAAAAJ
+vldb,2016,Self-Managing Systems,*Donald Kossman
+vldb,2016,Social Networking,3Y254i4AAAAJ
+vldb,2016,Software as a Service,3Y254i4AAAAJ
+vldb,2016,Web Data Management,*Minos Garofalakis
+icde,2018,AI interaction with DB technology,K2jKdVMAAAAJ
+icde,2018,Big Data; Data-Warehousing System Architectures,tNmIw4MAAAAJ
+icde,2018,Benchmarking; Performance Modelling; and Tuning,mGPuiasAAAAJ;HCxwGIkAAAAJ
+icde,2018,Crowdsourcing,DuLgpaQAAAAJ
+icde,2018,Cloud Computing and Database-as-a-Service,K2jKdVMAAAAJ
+icde,2018,Database Privacy; Security; and Trust,j6KFCRAAAAAJ
+icde,2018,Data Science,SKVnHakAAAAJ
+icde,2018,Data Integration; Metadata Management; and Interoperability,3r_xVvkAAAAJ
+icde,2018,Data Models; Semantics; Query languages,B_GQDXMAAAAJ
+icde,2018,Data Mining and Knowledge Discovery,B_GQDXMAAAAJ
+icde,2018,Data Provenance; Workflows; Scientific Data Management,clR6jhIAAAAJ
+icde,2018,Data Stream Systems and Sensor Networks,4_1z8yEAAAAJ
+icde,2018,Data Visualization and Interactive Data Exploration,KHjLaWAAAAAJ
+icde,2018,Distributed; Parallel and P2P Data Management,cSfl_CoAAAAJ
+icde,2018,High Performance Transaction Management,GAlAgGsAAAAJ
+icde,2018,Information Extraction; Data Cleaning Curation,47sihrsAAAAJ
+icde,2018,Modern Hardware and In-Memory Database Systems,4_1z8yEAAAAJ
+icde,2018,Query Processing; Indexing; and Optimization,G1Iux80AAAAJ
+icde,2018,Scalable Analytics; Graph; RDF; Web Data and Social Networks,*YERhuN8AAAAJ;IJAU8KoAAAAJ
+icde,2018,Strings; Texts; and Keyword Search,FI1rYesAAAAJ
+icde,2018,Temporal; Spatial; Mobile and Multimedia Data,G1Iux80AAAAJ;WFFamJkAAAAJ;wo20cPYAAAAJ
+icde,2018,Uncertain; Probabilistic and Approximate Databases,89WvmaAAAAAJ
+icde,2017,Benchmarking; Performance Modeling; and Tuning,dwxm_CoAAAAJ
+icde,2017,Cloud Computing and Database-as-a-Service,dwxm_CoAAAAJ
+icde,2017,Crowdsourcing,gtglwgYAAAAJ
+icde,2017,Database Privacy; Security; and Trust,mlafJ6wAAAAJ
+icde,2017,Data Warehousing and SQL Analytics,rg6Bl5YAAAAJ
+icde,2017,Data Integration; Metadata Management; and Interoperability,lWw-l1EAAAAJ
+icde,2017,Data Models; Semantics; Query languages,JaAonb0AAAAJ
+icde,2017,Data Mining and Knowledge Discovery,D2P2B0MAAAAJ
+icde,2017,Data Provenance; Workflows; Scientific Data Management,JaAonb0AAAAJ
+icde,2017,Data Visualization and Interactive Data Exploration,X53rkecAAAAJ
+icde,2017,Distributed and Parallel Databases; Scalable Analytics,dwxm_CoAAAAJ
+icde,2017,Graph Data; RDF and Web Data; Social Networks,7R7MSb4AAAAJ
+icde,2017,Information Extraction and Data Cleaning,9mIBxkMAAAAJ
+icde,2017,Modern Hardware and In-Memory Database Systems,RogYLKYAAAAJ
+icde,2017,Query Processing; Indexing; and Optimization,j6KFCRAAAAAJ
+icde,2017,Stream Systems and Sensor Networks,j6KFCRAAAAAJ
+icde,2017,Strings; Texts; and Keyword Search,lWw-l1EAAAAJ
+icde,2017,Transaction Processing,rg6Bl5YAAAAJ
+icde,2017,Temporal; Spatial; Mobile; and Multimedia Data,rg6Bl5YAAAAJ
+icde,2017,Uncertain; Probabilistic and Approximate Databases,7R7MSb4AAAAJ

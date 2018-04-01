@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+form {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  left: 10px;
+  top: 10px;
+}
+
+label {
+  display: block;
+}
+
+#explanation {
+  position: absolute;
+  top: 120px;
+  left: 600px;
+  width: 300px;
+  text-align: center;
+  color: #666;
+  z-index: -1;
+}
+</style>
+
+<!--form>
+	<label><input type="radio" name="mode" value="grouped"> Grouped</label>
+	<label><input type="radio" name="mode" value="stacked" checked> Stacked</label>
+</form>
+<span id="preview"></span>
+<br>
+<br-->
+<form>
+	<label><input type="radio" name="conf" value="sigmod" checked> sigmod</label>
+	<label><input type="radio" name="conf" value="vldb"> vldb</label>
+	<label><input type="radio" name="conf" value="icde"> icde</label>
+</form>
+<div id="explanation" style="visibility: hidden;">
+	<span id="info_pid"></span>
+	<br>
+	<br>
+	<span id="info_name"></span>
+	<br>
+	<br>
+	<span id="info_affiliation"></span>
+</div>
+<svg width="1300" height="640"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+
+var n = 3, // The number of series (year).
+    m = 40; // The number of values per series (top-20 PC).
+var values = [];
+var conference = 'sigmod'
+
+var svg = d3.select("svg"),
+    margin = {top: 40, right: 10, bottom: 20, left: 10},
+	axisWidth = 40,
+    width = +svg.attr("width") - margin.left - margin.right - axisWidth,
+    height = +svg.attr("height") - margin.top - margin.bottom,
+    g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+var xz,yz,y01z,yMax,y1Max;
+var ready = false;
+
+var x,y,series,rect, color;
+transitionConf();
+d3.selectAll("input")
+    .on("change", changed);
+
+/*var timeout = d3.timeout(function() {
+  d3.selectAll("input")
+      .property("checked", true)
+      .dispatch("change");
+}, 2000);*/
+
+function changed() {
+	if(!ready){
+		return;
+	}
+	//timeout.stop();
+	if(this.name === "conf"){
+		ready = false;
+		conference = this.value;
+		transitionConf();
+	}/*else{
+		if (this.value === "grouped") transitionGrouped();
+		else transitionStacked();
+	}*/
+}
+
+function updateData() {
+	console.log('updateData');
+	//console.log(values);
+	// The xz array has m elements, representing the x-values shared by all series.
+	// The yz array has n elements, representing the y-values of each of the n series.
+	// Each yz[i] is an array of m non-negative numbers representing a y-value for xz[i].
+	// The y01z array has the same structure as yz, but with stacked [y₀, y₁] instead of y.
+	color = d3.scaleOrdinal()
+    .domain(d3.range(n))
+    .range(d3.schemeCategory20c);
+	
+	xz = d3.range(m);
+    yz = d3.range(n).map(function(y) { return values[y]; });
+    //y01z = d3.stack().keys(d3.range(n))(d3.transpose(yz));
+    yMax = d3.max(yz, function(y) { return d3.max
+			(y, function(d){ return d['citations']; }); });
+    //y1Max = d3.max(y01z, function(y) { return d3.max(y, function(d) { return d[1]; }); });
+	console.log(yz);
+	
+	x = d3.scaleBand()
+    .domain(xz)
+    .rangeRound([0, width])
+    .padding(0.08);
+
+	y = d3.scaleLinear()
+    .domain([0, yMax])
+    .range([height, 0]);
+
+	if(series)
+		series.remove();
+	g.selectAll("g").remove();
+	
+	series = g.selectAll(".series")
+	.data(yz)
+	.enter().append("g")
+    .attr("fill", function(d, i) { return color(i); })
+	.attr("transform", function(d, i){return "translate(" + (axisWidth + x.bandwidth() / n * i) + ",0)"});
+
+	rect = series.selectAll("rect")
+	.data(function(d) { return d; })
+	.enter().append("rect")
+    .attr("x", function(d, i) { return x(i); })
+    .attr("y", height)
+    .attr("width", x.bandwidth())
+    .attr("height", 0)
+	.on("mouseover", mouseover)
+	.on("mouseleave", mouseleave);
+
+	rect.transition()
+	.delay(function(d, i) { return i * 10; })
+    .attr("y", function(d) { return y(0); })
+    .attr("height", function(d) { return y(d['citations']); });
+	
+	g.append("g")
+    .attr("class", "axis axis--x")
+    .attr("transform", "translate("+axisWidth+","+height+")")
+    .call(d3.axisBottom(x)
+        .tickSize(0)
+        .tickPadding(6));
+	g.append("g")
+    .attr("class", "axis axis--y")
+    .attr("transform", "translate("+axisWidth+",0)")
+    .call(d3.axisLeft(y)
+        .tickSize(0)
+        .tickPadding(6));
+	
+	transitionGrouped();
+	ready = true;
+
+}
+
+function transitionGrouped() {
+  y.domain([0, yMax]);
+
+  rect.transition()
+      .duration(500)
+      .delay(function(d, i) { return i * 10; })
+      .attr("x", function(d, i) { return x(i); })
+      .attr("width", x.bandwidth() / n)
+    .transition()
+      .attr("y", function(d) { return y(d['citations']); })
+      .attr("height", function(d) { return y(0) - y(d['citations']); });
+}
+
+/*function transitionStacked() {
+  y.domain([0, y1Max]);
+
+  rect.transition()
+      .duration(500)
+      .delay(function(d, i) { return i * 10; })
+      .attr("y", function(d) { return y(d[1]); })
+      .attr("height", function(d) { return y(d[0]) - y(d[1]); })
+    .transition()
+      .attr("x", function(d, i) { return x(i); })
+      .attr("width", x.bandwidth());
+}*/
+
+function transitionConf() {
+	if(this.conference === "icde")
+		this.n = 2;
+	else
+		this.n = 3;
+	for(var year = 0; year < n; year++)
+	{
+		this.getData(m, this.conference, year);
+	}
+	// when got, call updateData
+}
+
+function mouseover(d) {
+	var self = d3.select(this);
+	console.log(self);
+	console.log(self.attr("x")+","+self.attr("y"));
+
+	d3.select("#info_pid").text(d['pid']);
+	d3.select("#info_name").text(d['name']);
+	d3.select("#info_affiliation").text(d['affiliation']);
+	d3.select("#explanation")
+		.style("visibility", "");
+
+	// Fade all the rect.
+	rect.style("opacity", 0.3);
+	// Then highlight only the rect.
+	self.style("opacity", 1);
+	
+}
+function mouseleave(d) {
+	d3.select("#info_pid").text('');
+	d3.select("#info_name").text('');
+	d3.select("#info_affiliation").text('');
+	d3.select("#explanation")
+		.style("visibility", "");
+
+	// Fade all the rect.
+	rect.style("opacity", 1);
+}
+
+var dataGetNumber = 0;
+// Returns an array of m psuedorandom, smoothly-varying non-negative numbers.
+// Inspired by Lee Byron’s test data generator.
+// http://leebyron.com/streamgraph/
+function getData(m, conf, year) {
+	this.values[year] = [];
+	var request = new XMLHttpRequest();
+	request.open("POST", "", true);
+	request.setRequestHeader("Content-type", "application/json;charset=utf-8");
+	var self = this;
+	request.onreadystatechange = function() {
+		if (request.readyState == 4) {
+			if(request.status != 200 && request.status != 304){
+				for(var i = 0; i < m; i++)
+					self.values[year][i] = {'pid': 0, 'citations': 5, 'name': '', 'affiliation': ''};
+			} else {
+				var responseData = JSON.parse(request.responseText);
+				//console.log(responseData);
+				for(var i = 0; i < m; i++)
+					self.values[year][i] = responseData[i];
+			}
+			if(++self.dataGetNumber >= self.n){
+				dataGetNumber = 0;
+				self.updateData();
+			}
+		}
+	};
+	var beginYear = 2019 - self.n;
+	var userData = {
+		'title': 'citations',
+		'conference': conf,
+		'year': beginYear+year,
+		'number': m
+	};
+	request.send(JSON.stringify(userData));
+	return values;
+}
+
+</script>
